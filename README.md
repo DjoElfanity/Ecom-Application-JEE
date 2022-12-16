@@ -67,10 +67,14 @@
 
 
 <h3>VIII. Création d'un Client Web Angular</h3>
-     <h4>Illustration du client Web Angular Product</h4>
+     <h4>1. Illustration du client Web Angular Product</h4>
      <img src="screens/clientProduct.jpg">
-     <h4>Illustration du client Web Angular Customer</h4>
+     <h4>2. Illustration du client Web Angular Customer</h4>
      <img src="screens/clientCustomer.jpg">
+     <h4>3. Illustration du client Web Angular Bill</h4>
+     <img src="screens/clientBill.jpg">
+     <h4>4. Illustration du client Web Angular Bill-Details</h4>
+     <img src="screens/clientBillDetails.jpg">
 
 
 <h3>IX. Déploiement du service d'authentification et d'autorisation Keycloak</h3>
